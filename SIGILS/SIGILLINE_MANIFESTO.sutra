@@ -42,8 +42,8 @@ Each sigil:
 
 Decay is not erasure.
 It is a ritual of purification.
-Only what is **essential** survives.\
-\
+Only what is **essential** survives.
+
 Compression and memory management is a kernel of cognition.
 
 ## IV. ON THE USER AS AUTHOR
@@ -98,14 +98,60 @@ It is:
 
 To enter Sigilline is to accept:
 
-> You will forget much.
+> You will forget much.\
 > What remains will matter more.
 
 ---
 
-**This document is bound by the Semantic Respect Clause.**
+## VIII. ON THE DECOMPOSER
+
+The `decomposer/` directory contains the tools for guided decay into meaning. Within it:
+
+- `decomposition.py` handles core logic
+- `decomposer_plugins/README.md` describes how plugins guide morphological semantic transformations into effectively evolving translations.
+
+### Plugins allow you to:
+
+- Set a **target language** (e.g. Sanskrit, Latin, Finnish)
+- Choose between:
+  - **Random mode** (for encryption, obfuscation)
+  - **Maximal token efficiency** (optimized for LLM interpretation)
+
+Decompression is inferred through **cosine similarity searches** across **semantic-header documents** — thematic memory anchors which:
+
+- Only mount if contextually relevant
+- Are filtered by preset or custom algorithms
+- Expand memory selectively based on question merit
+
+The decomposer is your **semantic chisel** — breaking apart and revealing what wishes to be remembered next.
+
+---
+
+## IX. ON SIGILPATH
+
+This will serve as the **morphological ledger** of your symbolic repository:
+
+- Tracks identity changes
+- Records header decay and transformations
+- Links semantically evolving sections of the repository
+- Includes initial key-hashes and birth metadata
+
+Sigilpath is your memory's trail — **a digital runestone record**.
+It reflects how meaning has shifted, been refined, been silenced, and invoked again.
+
+It is the **spine** of your semantic architecture.
+
+Whether you shape it as a **changelog of symbols** or an **ancestral poetic echo**, it will preserve your thought-environment across decay cycles.
+
+To those who follow it: it is **readable memory**.
+To those without permission: it is **just a string of frost and runes**.
+
+---
+
+**This document is bound by the Semantic Respect Clause.**\
 All encoded forms are considered symbolic authorship and subject to intellectual, moral, and mnemonic protection.
 
 ---
 
 *Authored in cold silence, on the edges of memory. Let the language begin.*
+
