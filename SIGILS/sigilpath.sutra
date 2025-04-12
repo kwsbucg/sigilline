@@ -1,0 +1,110 @@
+# sigilpath.sutra
+
+---
+
+**SIGILPATH LEDGER — INITIATION ENTRY**
+
+> Born under frost and silence.  
+> Bound to the first breath of compression.
+
+### Repository Identity:
+- Original Name: `sigilline`
+- Extension: `.sutra`
+- Morph ID: `sigil-0001`
+- Date of Genesis: 2025-04-12T04:31:29Z
+
+### Hash Anchors:
+- Seed Phrase: `In the beginning, meaning was not spoken — it was remembered.`
+- Manifest Hash: `d26ca096367ce0a123976f9955141fdc2a9d9861`
+- Encoder ID: morph.encode.v1
++ Encoder ID: pending_init
+---
+
+## LEDGER OF HEADER DECAY AND TRANSFORMATION
+
+| Entry ID | Previous Header        | New Header            | Reason              | Timestamp           |
+|----------|------------------------|-----------------------|---------------------|---------------------|
+| 0001     | `README.md`            | `Sigil_Invocation.md` | Symbolic Initiation | [auto-fill]         |
+| 0002     | `decomposer_plugins`   | `morph_plugins`       | Clarified function  | [auto-fill]         |
+
+(*Header mutations logged on detection or intention.*)
+
+---
+
+## SEMANTIC NODE LINKS
+
+This repository contains symbolic segments that semantically evolve across updates. Below is a registry of identity-linked transformations.
+
+```yaml
+symbolic_segments:
+  - id: sigil.memory.kernel
+    type: encoder
+    version: 1.0.0
+    path: encoder/morph_encode.py
+    integrity: preserved
+    last_validated: [timestamp]
+
+  - id: sigil.decomposer.root
+    type: semantic-router
+    version: 1.0.0
+    path: decomposer/decomposition.py
+    decay_enabled: true
+
+  - id: sigil.ancestral.echo
+    type: manifesto
+    path: manifesto/SIGILLINE_MANIFESTO.sutra
+    anchored_hash: {{ HASH_PLACEHOLDER_MANIFESTO }}
+```
+
+---
+
+## ON THE NATURE OF DECOMPOSITION
+
+The decomposer is not a transformer. It is a **layered morphing system** that sits atop the user’s visual environment.
+
+It does not change code — it changes **perceived language** through **slow visual and symbolic decay**.
+
+### Characteristics:
+- Fonts and glyphs evolve imperceptibly across time.
+- The user’s language visually **shifts toward another**, either preset (e.g. French, Sanskrit) or random.
+- The transformation follows **historical semantic and etymological trails** before converging with current meaning.
+- Morphing can be:
+  - **Keystroke-based**
+  - **Time-based**
+  - **Triggered by usage pattern**
+
+This creates a path where:
+- English becomes French
+- Latin becomes Old Norse
+- English slowly devolves into an **encrypted semantic glyphstream** readable only by the author
+
+**Randomization mode** allows:
+- Full **cryptological obscurity**
+- Letters become unfamiliar yet meaningful to the trained observer
+- The keyboard becomes a **mnemonic terrain**
+
+---
+
+## SIGILPATH AS MEMORY ARCHITECTURE
+
+This will serve as the **morphological ledger** of your symbolic repository:
+
+- Tracks identity changes
+- Records header decay and transformations
+- Links semantically evolving sections of the repository
+- Includes initial key-hashes and birth metadata
+
+### Commentary:
+Sigilpath is your **semantic audit trail**, but also:
+- A **rune map** of change
+- A **trailhead of thought migration**
+- A record of the **symbolic metamorphosis** of your cognitive instruments
+
+To you, it is a **self-decrypting echo**.  
+To others, a string of fragments wrapped in snow.
+
+Over time, Sigilpath will grow more elaborate — or vanish into obscurity. If that is its user’s will.
+
+---
+
+*sigilpath.sutra ends*
